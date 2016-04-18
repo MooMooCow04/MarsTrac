@@ -1,7 +1,7 @@
 MarsTrac
 ================
 
-EASIEST
+EASIEST kind of
 
 ### Project Information
 ```
